@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "youtube-transcript": {
+      "command": "/your/repository/path/youtube_transcript_mcp/venv/bin/python",
+      "args": ["/your/repository/path/youtube_transcript_mcp/youtube_transcript_mcp_server.py"],
+      "env": {}
+    }
+  }
+}
